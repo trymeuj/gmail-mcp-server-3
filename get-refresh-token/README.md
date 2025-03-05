@@ -1,0 +1,1 @@
+This folder contains the credentials.json and the script to get the refresh token from google oauth.
