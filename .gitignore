@@ -2,3 +2,7 @@ node_modules/
 build/
 *.log
 .env*
+
+# Ignore credential files
+credentials.json
+token.json
